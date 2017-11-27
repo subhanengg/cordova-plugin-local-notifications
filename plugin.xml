@@ -44,7 +44,7 @@
         <engine name="cordova-plugman" version=">=4.3.0"  />
         <engine name="cordova-android" version=">=6.0.0"  />
         <engine name="cordova-windows" version=">=4.2.0"  />
-        <engine name="android-sdk"     version=">=26" />
+        <engine name="android-sdk"     version=">=25" />
         <engine name="apple-ios"       version=">=10.0.0" />
     </engines>
 
@@ -96,7 +96,7 @@
 
     <!-- android -->
     <platform name="android">
-        <framework src="com.android.support:support-v4:26.+" />
+        <framework src="com.android.support:support-v4:25.+" />
         <framework src="src/android/build/localnotification.gradle" custom="true" type="gradleReference"/>
 
         <config-file target="res/xml/config.xml" parent="/*">

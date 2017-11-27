@@ -39,7 +39,7 @@
     },
     {
       "name": "android-sdk",
-      "version": ">=26"
+      "version": ">=25"
     },
     {
       "name": "apple-ios",
