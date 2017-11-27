@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katzer/cordova-plugin-local-notifications.git"
+    "url": "git+https://github.com/subhanengg/cordova-plugin-local-notifications.git"
   },
   "keywords": [
     "appplant",
@@ -46,10 +46,10 @@
       "version": ">=10.0.0"
     }
   ],
-  "author": "Sebastián Katzer",
+  "author": "Abdul Subhan Mohammed",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/katzer/cordova-plugin-local-notifications/issues"
+    "url": "https://github.com/subhanengg/cordova-plugin-local-notifications/issues"
   },
-  "homepage": "https://github.com/katzer/cordova-plugin-local-notifications#readme"
+  "homepage": "https://github.com/subhanengg/cordova-plugin-local-notifications#readme"
 }
